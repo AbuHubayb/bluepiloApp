@@ -1,4 +1,4 @@
-name: Run Cypress Tests Daily
+name: Bluepilo Runs
 on:
   schedule:
     - cron: 0 14 * * *

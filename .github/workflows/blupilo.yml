@@ -17,4 +17,4 @@ jobs:
       - name: Install dependencies
         run: npm install cypress
       - name: Run Cypress Tests
-        run: npm run cypress:run -- --spec "cypress/e2e/Extranet/registration.js"
+        run: npx run cypress:run

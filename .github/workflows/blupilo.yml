@@ -17,5 +17,5 @@ jobs:
       - name: Install dependencies
         run: npm install cypress
       - name: Run Cypress Tests
-        uses: AbuHubayb/bluepiloApp/cypress@v5
+        uses: AbuHubayb/bluepiloApp/cypress@v12
 

@@ -1,4 +1,4 @@
-name: Run Cypress Tests On Push
+name: Bluepilo On Push
 
 on:
   push:
